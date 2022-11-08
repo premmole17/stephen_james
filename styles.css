@@ -59,7 +59,9 @@ body {
 .contact h5 {
   margin-top: 1%;
 }
-
+.designed{
+  color: rgb(181, 181, 181);
+}
 /* media */
 
 @media (max-width: 1200px) {
